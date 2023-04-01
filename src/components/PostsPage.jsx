@@ -18,7 +18,7 @@ const PostsPage = () => {
         getPosts();
     },[]);
 
-    if(loading) return <h1>로딩중입니ㅏㄷ.</h1>
+    if(loading) return <h1>로딩중입니ㅏdddddㄷ.</h1>
 
   return (
     <Row>
