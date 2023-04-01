@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;400&display=swap');
+
+.App {
+  width: 80%;
+  margin: 0px auto; /*가운데정렬*/
+  background: #E2e2e2;
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
+h1 {
+  text-align: center;
+  padding-top: 50px;
+}
+
+img {
+  width: 100%;
+}
+
+.footer {
+  border-top: 3px solid gray;
+  margin: 100px 0px;
+}
+
+.footer h3 {
+  text-align: center;
+}
+
+
+button {
+  font-family: 'Gugi', cursive;
+  margin: 0px 10px;
+  padding: 5px 20px;
+}
+
+form {
+  width: 50%;
+  margin: 0px auto;
+  text-align: center;
+}
+
+input {
+  width: 100%;
+  font-family: 'Gugi', cursive;
+  margin: 10px 0px;
+  padding: 5px;
+  border: 1px solid gray;
+  border-radius: 5px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
+td {
+  border: 1px solid gray;
+  padding: 5px 10px;
+}
+
+thead {
+  background: gray;
+  color: white;
+  text-align: center;
+  
+}
