@@ -9,7 +9,7 @@ import TodosPage from './TodosPage';
 const RouterPage = () => {
     return (
         <>
-            <Navbar bg="light" expand="lg" className='mb-5'>
+            <Navbar bg="dark" expand="lg" className='mb-5'>
                 <Container>
                     <Link to="/posts">LOGO</Link>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
